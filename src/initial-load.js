@@ -1,3 +1,5 @@
+import tabs from "./tabs"
+
 const initialLoad = () => {
   const content = document.querySelector('#content')
   const title = document.createElement('div')
@@ -16,6 +18,7 @@ const initialLoad = () => {
   //container
   content.appendChild(title)
   content.appendChild(imgContainer)
+  content.appendChild(tabs())
 }
 
 export default initialLoad
