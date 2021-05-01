@@ -1,1 +1,1 @@
-console.log("console logged!!");
+(()=>{"use strict";console.log("hhihggsdfdsfdfdf"),(()=>{const e=document.querySelector("#content"),t=document.createElement("div"),n=document.createElement("img");t.classList.add("title"),t.textContent="Restaurant Title";const d=document.createElement("div");d.classList.add("img-container"),n.setAttribute("src","/restaurant.webp"),d.appendChild(n),e.appendChild(t),e.appendChild(d)})()})();
