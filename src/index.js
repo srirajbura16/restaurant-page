@@ -1,7 +1,7 @@
 import initialLoad from "./initial-load"
 import tabs from "./tabs"
 
-console.log('sdfsdf')
+console.log('sdsdfsdfsf')
 
 initialLoad()
 
