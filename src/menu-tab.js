@@ -1,6 +1,6 @@
 const menuTab = () => {
   const title = 'Menu'
-  const body = 'menu title'
+  const body = 'menu body'
 
   return {
     title,

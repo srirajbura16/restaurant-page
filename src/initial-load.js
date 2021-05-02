@@ -18,7 +18,7 @@ const initialLoad = () => {
   //container
   content.appendChild(title)
   content.appendChild(imgContainer)
-  content.appendChild(tabs().container)
+  content.appendChild(tabs())
 }
 
 export default initialLoad

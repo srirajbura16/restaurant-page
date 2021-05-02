@@ -1,6 +1,6 @@
 const homeTab = () => {
   const title = 'Home'
-  const body = 'home title'
+  const body = 'home body'
 
   return {
     title,

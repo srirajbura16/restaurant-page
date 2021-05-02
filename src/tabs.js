@@ -36,10 +36,7 @@ const tabs = () => {
   
   container.append(tabs, tabContent)
 
-  return {
-    container,
-    tabs
-  }
+  return container
 }
 
 export default tabs
